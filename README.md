@@ -1,7 +1,7 @@
 
 # WebGL 1.0 specific methods not to be found in OpenGL ES 2.0
 
-List compiled by cross referencing the [WebGL API](https://www.khronos.org/files/webgl/webgl-reference-card-1_0.pdf) and the [OpenGL ES 2.0 API](https://docs.gl/)
+List compiled by cross referencing the [WebGL 1.0 API](https://www.khronos.org/files/webgl/webgl-reference-card-1_0.pdf) and the [OpenGL ES 2.0 API](https://docs.gl/)
 
  1. getExtension
  2. getSupportedExtensions
